@@ -1,5 +1,5 @@
 {
-  "name": "cuppssAdmin",
+  "name": "cuppssadmin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
